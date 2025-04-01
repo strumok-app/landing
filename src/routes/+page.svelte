@@ -50,8 +50,7 @@
 					py-2 px-4 mt-2
 					rounded
 					bg-black text-white *:fill-white
-				"
-					><h1>{desktopScrean.current ? 'large screen' : 'small screen'}</h1>
+				">
 					<span>Завантажити для </span>
 					<svg inline-src="android" class="h-8 w-8" />
 				</a>
@@ -68,7 +67,7 @@
 			<div class="mt-4 w-120 h-30 flex lg:flex-col xl:flex-row items-center justify-around">
 				<div>
 					<a
-						href="https://github.com/strumok-app/strumok/releases/latest/download/app-release.apk"
+						href="https://github.com/strumok-app/strumok/releases/latest/download/StrumokSetup.exe"
 						target="_blank"
 						rel="noopener noreferrer"
 						class="
