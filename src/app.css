@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+@plugin 'flowbite/plugin';
+
+@source "../node_modules/flowbite-svelte/dist";
