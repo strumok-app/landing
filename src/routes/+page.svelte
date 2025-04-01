@@ -4,13 +4,13 @@
 	import Controls from 'flowbite-svelte/Controls.svelte';
 
 	export const mobileImages = Array.from({ length: 8 }, (_, i) => ({
-		src: `screenshots/mobile/${i + 1}.png`,
+		src: `screenshots/mobile/${i + 1}-min.png`,
 		alt: `Screan ${i + 1}`,
 		title: `Screan ${i + 1}`
 	}));
 
 	export const desktopImages = Array.from({ length: 8 }, (_, i) => ({
-		src: `screenshots/desktop/${i + 1}.png`,
+		src: `screenshots/desktop/${i + 1}-min.png`,
 		alt: `Screan ${i + 1}`,
 		title: `Screan ${i + 1}`
 	}));
