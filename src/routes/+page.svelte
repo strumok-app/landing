@@ -37,8 +37,7 @@
 		flex flex-col items-center justify-end"
 		>
 			<div>
-				Дивись фільми, серіали, аніме та читай мангу в одному додатку Strumok на телефоні та Anroid
-				TV!
+				Дивись фільми, серіали, аніме та читай мангу в одному додатку Strumok на телефоні та Anroid TV!
 			</div>
 			<div class="mb-4">
 				<a
