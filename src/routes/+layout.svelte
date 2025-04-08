@@ -8,7 +8,7 @@
 	<div
 		class="hidden lg:block absolute z-0 h-full w-[70%] right-0 strumok-curve-desktop bg-yellow-400"
 	></div>
-	<div class="lg:hidden absolute z-0 bottom-0 h-60 w-full strumok-curve-mobile bg-yellow-400"></div>
+	<div class="lg:hidden absolute z-0 bottom-0 h-64 w-full strumok-curve-mobile bg-yellow-400"></div>
 	<div class="absolute z-1 inset-0 flex flex-col">
 		<div class="flex justify-between w-full items-center p-2">
 			<div class="flex items-center space-x-2">

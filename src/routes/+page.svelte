@@ -26,20 +26,20 @@
 				images={tabletScrean.current ? desktopImages : mobileImages}
 				duration={10000}
 				imgClass="object-contain h-full w-fit h-fill"
-				class="h-full md:h-full lg:h-full"
+				class="h-full sm:h-full md:h-full lg:h-full"
 			>
 				<Controls />
 			</Carousel>
 		</div>
 		<div
-			class="h-60 mt-4 px-8
+			class="h-64 mt-4 px-8
 		text-center text-lg text-black
 		flex flex-col items-center justify-end"
 		>
 			<div>
 				Дивись фільми, серіали, аніме та читай мангу в одному додатку Strumok на телефоні та Anroid TV!
 			</div>
-			<div class="mb-4">
+			<div class="mb-10">
 				<a
 					href="https://github.com/strumok-app/strumok/releases/latest/download/app-release.apk"
 					target="_blank"
@@ -57,7 +57,7 @@
 		</div>
 	</div>
 {:else}
-	<div class="hidden lg:flex flex-grow justify-around">
+	<div class="flex flex-grow justify-around">
 		<div class="w-[40%] h-full flex flex-col justify-center items-center">
 			<div class="w-90 text-center">
 				Дивись фільми, серіали, аніме та читай мангу в одному додатку Strumok на телефоні та Android
