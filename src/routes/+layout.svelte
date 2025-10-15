@@ -19,7 +19,7 @@
 					href="https://github.com/strumok-app/strumok"
 					aria-label="github"
 					target="_blank"
-					rel="noopener noreferrer"
+					rel="noopener noreferrer nofollow"
 				>
 					<svg inline-src="github" class="h-8 w-8" />
 				</a>
