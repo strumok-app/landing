@@ -43,7 +43,7 @@
 				<a
 					href="https://github.com/strumok-app/strumok/releases/latest/download/app-release.apk"
 					target="_blank"
-					rel="noopener noreferrer"
+					rel="noopener noreferrer nofollow"
 					class="
 					flex items-center justify-center space-x-2
 					py-2 px-4 mt-2
@@ -68,7 +68,7 @@
 					<a
 						href="https://github.com/strumok-app/strumok/releases/latest/download/StrumokSetup.exe"
 						target="_blank"
-						rel="noopener noreferrer"
+						rel="noopener noreferrer nofollow"
 						class="
 					flex items-center justify-center space-x-2
 					py-2 px-4
@@ -85,7 +85,7 @@
 					<a
 						href="https://github.com/strumok-app/strumok/releases/latest/download/app-release.apk"
 						target="_blank"
-						rel="noopener noreferrer"
+						rel="noopener noreferrer nofollow"
 						class="
 					flex items-center justify-center space-x-2
 					py-2 px-4

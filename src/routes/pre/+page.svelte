@@ -17,6 +17,7 @@
 	<a
 		href="https://storage.googleapis.com/cloud-hook-b1106.appspot.com/artifacts/prerelease/android/app-release.apk"
 		class="w-full max-w-[30rem] flex items-center justify-center space-x-2 py-2 px-[10px] mt-2 rounded bg-black text-white *:fill-white border border-white"
+		rel="noopener noreferrer nofollow"
 	>
 		<svg inline-src="android" class="h-8 w-8" />
 		<span>Download Android</span>
@@ -24,6 +25,7 @@
 	<a
 		href="https://storage.googleapis.com/cloud-hook-b1106.appspot.com/artifacts/prerelease/StrumokSetup.exe"
 		class="w-full max-w-[30rem] flex items-center justify-center space-x-2 py-2 px-[10px] mt-2 rounded bg-black text-white *:fill-white border border-white"
+		rel="noopener noreferrer nofollow"
 	>
 		<svg inline-src="windows" class="h-8 w-8" />
 		<span>Download Windows</span>
@@ -31,6 +33,7 @@
 	<a
 		href="https://storage.googleapis.com/cloud-hook-b1106.appspot.com/artifacts/prerelease/linux.tar.gz"
 		class="w-full max-w-[30rem] flex items-center justify-center space-x-2 py-2 px-[10px] mt-2 rounded bg-black text-white *:fill-white border border-white"
+		rel="noopener noreferrer nofollow"
 	>
 		<span>Download Linux</span>
 	</a>
